@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF66344327007F5400CFC16C /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF66344227007F5400CFC16C /* AuthResponse.swift */; };
 		CFE8B00C26F71EF1002C526E /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE8B00B26F71EF1002C526E /* TabBarViewController.swift */; };
 		CFE8B00E26F7213A002C526E /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE8B00D26F7213A002C526E /* SearchViewController.swift */; };
 		CFE8B01026F72172002C526E /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE8B00F26F72172002C526E /* LibraryViewController.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CF66344227007F5400CFC16C /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 		CFE8B00B26F71EF1002C526E /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		CFE8B00D26F7213A002C526E /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		CFE8B00F26F72172002C526E /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				CFE8B02926F724CE002C526E /* AudioTrack.swift */,
 				CFE8B02B26F724F0002C526E /* Artist.swift */,
 				CFE8B02D26F72511002C526E /* UserProfile.swift */,
+				CF66344227007F5400CFC16C /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				CFE8B01A26F722AA002C526E /* ProfileViewController.swift in Sources */,
 				CFE8B00C26F71EF1002C526E /* TabBarViewController.swift in Sources */,
 				CFE8B02626F7247F002C526E /* HapticsManager.swift in Sources */,
+				CF66344327007F5400CFC16C /* AuthResponse.swift in Sources */,
 				CFE8B02A26F724CE002C526E /* AudioTrack.swift in Sources */,
 				CFFDD3E626F3BBA2001B6515 /* HomeViewController.swift in Sources */,
 				CFE8B01426F72238002C526E /* AuthViewController.swift in Sources */,
